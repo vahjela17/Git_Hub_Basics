@@ -1,5 +1,5 @@
 # Git_Hub_Basics
-The Basica according to Me (Windows Version)
+The Basics according to Me (Windows Version)
 This is not meant to be all inclusive, there's always more than one way to skin a cat.
 Anything I dont explain to your satisfation is googleable i promise! better yet if you know how to access chat-GPT, ask your questions there and your answers will be thorught specific and interactive (lots of copy and paste)
 
