@@ -56,7 +56,7 @@ type **git clone** (paste) , hit enter
 
 where ever the comand line says your are loacted, the clone wil be placed in a folder in your current location
 type (**cd** **name_of_repo**) to navigate to said schools.
-often best to type **pip isntall -r requirements.txt** first up.  
+often best to type **pip install -r requirements.txt** first up.  
 
 Next steps wll more than likely be found in your next README!
 
