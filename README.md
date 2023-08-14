@@ -17,8 +17,8 @@ Pip is python's right hand man.  Pip installs all
 PIP - https://bootstrap.pypa.io/get-pip.py
 copy get-pip.py to same folder (directory) as python 
 If you dont know where python installed itself, just search for python and find the folder named Python x.xx
-Open Command prompt, change directory (cd) to python folder (right-click folder, copy path as text) paste after cd, hit enter.
-type python get-pip.py, hit enter
+Open Command prompt, change directory (cd) to python folder (right-click folder, copy path as text) paste after **cd**, hit enter.
+type **python get-pip.py**, hit enter
 Now you can install stuff
 
 Directories, locations and environment variables are critical
@@ -26,8 +26,8 @@ Fuck these up and you will waste so much of your time
 Make sure you install pip in the same directory as python
 
 In Command Prompt:
-python.exe -m pip show pip, hit enter
-python --version, hit enter
+**python.exe -m pip show pip**, hit enter
+**python --version**, hit enter
 to make sure both are installed
 
 Next needs:
@@ -36,10 +36,10 @@ VSCode
 
 Try to keep all projects or groups of projects in seperate virtual environments.  Dependencies are a bitch.
 
-Conda create -name [user-selected-venv-name]
+**Conda create -name [user-selected-venv-name]**
 
-After created - conda activate [user-selected-venv-name]
-
+After created - **conda activate [user-selected-venv-name]
+**
 execute all command line prompts through conda with a venv activated
 write, debug and test all code with VSCode.  It plays well with others and is fairly robust.
 
@@ -47,16 +47,16 @@ Now the fun stuff, installing repositories.
 I mean that seriously and sarcastically.  I still mess shit up, but the idea is
 
 got to repository page
-clikc green button that says code and go to 
+click green button that says code and go to 
 https://(address to repo)
 click copy button
 return to conda environment
 cd to directory where you want installation to happen.
-type git clone (paste) , hit enter
+type **git clone** (paste) , hit enter
 
 where ever the comand line says your are loacted, the clone wil be placed in a folder in your current location
-type (cd name of repo) to navigate to said schools.
-often best to type pip isntall -r requirements.txt first up.  
+type (**cd** **name_of_repo**) to navigate to said schools.
+often best to type **pip isntall -r requirements.txt** first up.  
 
 Next steps wll more than likely be found in your next README!
 
