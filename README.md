@@ -47,5 +47,17 @@ Now the fun stuff, installing repositories.
 I mean that seriously and sarcastically.  I still mess shit up, but the idea is
 
 got to repository page
-clikc green button and go to 
+clikc green button that says code and go to 
+https://(address to repo)
+click copy button
+return to conda environment
+cd to directory where you want installation to happen.
+type git clone (paste) , hit enter
 
+where ever the comand line says your are loacted, the clone wil be placed in a folder in your current location
+type (cd name of repo) to navigate to said schools.
+often best to type pip isntall -r requirements.txt first up.  
+
+Next steps wll more than likely be found in your next README!
+
+This is the cliff notes, basics, to divide into the amazing open source community that is github!
